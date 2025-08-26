@@ -12,7 +12,7 @@ Through preprocessing, exploratory data analysis, clustering, and frequent patte
 - 🔎 **Cluster Analysis**: Applied K-means and DBSCAN to group tweets by content, source, and engagement  
 - 🔗 **Frequent Pattern Mining**: Used FP-growth & Apriori to extract frequent hashtags, sources, and associations  
 
-## Technologies Used  
+## Technologies Used 
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, WordCloud, mlxtend (Apriori/FP-growth)  
 - **Algorithms**: Logistic Regression (baseline), K-means, DBSCAN, Apriori, FP-growth  
